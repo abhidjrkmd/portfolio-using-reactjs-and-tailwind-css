@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-using-reactjs-and-tailwind-css/static/css/main.5268da67.css",
+    "main.js": "/portfolio-using-reactjs-and-tailwind-css/static/js/main.f70a78c0.js",
+    "static/media/heroImage.png": "/portfolio-using-reactjs-and-tailwind-css/static/media/heroImage.488d7f1dc79e04d65f7b.png",
+    "static/media/react.png": "/portfolio-using-reactjs-and-tailwind-css/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/portfolio-using-reactjs-and-tailwind-css/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio-using-reactjs-and-tailwind-css/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-using-reactjs-and-tailwind-css/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-using-reactjs-and-tailwind-css/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-using-reactjs-and-tailwind-css/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-using-reactjs-and-tailwind-css/index.html",
+    "main.5268da67.css.map": "/portfolio-using-reactjs-and-tailwind-css/static/css/main.5268da67.css.map",
+    "main.f70a78c0.js.map": "/portfolio-using-reactjs-and-tailwind-css/static/js/main.f70a78c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5268da67.css",
+    "static/js/main.f70a78c0.js"
+  ]
+}
